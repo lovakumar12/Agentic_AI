@@ -1,0 +1,20 @@
+langchain
+langchain-openai
+langchain-groq
+python-dotenv
+
+##RAG
+langchain 
+langchain-community 
+langchain-text-splitters
+langchain-chroma 
+pypdf
+sentence-transformers
+streamlit
+langchain-huggingface
+langchain-text-splitters 
+python-dotenv 
+requests
+
+## for sentiment
+arabic-reshaper

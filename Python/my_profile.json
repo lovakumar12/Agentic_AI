@@ -1,0 +1,9 @@
+{
+    "name": "Your Name",
+    "age": 22,
+    "skills": [
+        "Python",
+        "Problem Solving"
+    ],
+    "city": "Your City"
+}
